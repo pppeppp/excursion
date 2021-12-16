@@ -14,3 +14,14 @@ body {
     font-size: 16px;
     color: aquamarine;
 }
+
+.header2 {
+    color: #FFF;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.p--appdescription {
+    font-size: 21px;
+    color: gray;
+}
